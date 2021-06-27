@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Simple task-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is simple task adding app. There isn't any styling, it's very ugly.
+I'm just practicing with React props and state.
 
 ## Available Scripts
 
