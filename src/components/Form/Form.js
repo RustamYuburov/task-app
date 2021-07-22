@@ -1,7 +1,7 @@
 import React, {Component} from "react"
 import FormComponent from './components/FormComponent'
 
-class App extends Component {
+class FormApp extends Component {
     constructor() {
         super()
         this.state = {
@@ -39,4 +39,4 @@ class App extends Component {
     }
 }
 
-export default App
+export default FormApp
